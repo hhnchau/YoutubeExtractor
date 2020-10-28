@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources translatable="false">
+    <string name="content_language_key" translatable="false">content_language</string>
+    <string name="default_localization_key" translatable="false">system</string>
+    <string name="content_country_key" translatable="false">content_country</string>
+</resources>

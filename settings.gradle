@@ -1,0 +1,5 @@
+rootProject.name='YoutubeExtrator'
+include ':app'
+include ':yt_extractor'
+include ':youtube_extractor'
+include ':newpipe'
